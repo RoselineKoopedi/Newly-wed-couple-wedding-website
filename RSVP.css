@@ -1,0 +1,66 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 02 Sep 2018, 2:53:40 AM
+    Author     : ROSELINE
+*/
+
+body
+{
+    background:url("Screenshot (30).png");
+}
+.all
+{
+    width: 800px;
+    background:black;
+    margin: 0 auto 0 auto;
+    min-height:900px;
+    text-align: center;
+}
+.first
+{
+    height:100px;
+    padding:20px;
+    text-align:center;
+    color: white;
+}
+h2
+{
+    color:pink;
+    font-family :fantasy;
+    
+}
+ul li a:hover
+{
+  color:red;
+}
+ul li
+{
+    list-style:none;
+      display:inline-block;
+      padding:0 20px;
+}
+p
+{
+    font-family:fantasy;
+    color:steelblue;
+}
+.lolo
+{
+   background:url("RSVP.png");
+   border-radius:20%;
+    height:200px;
+}
+.second
+{
+    background-color: pink;
+    height:400px;
+}
+.food
+{
+    font-family:fantasy;
+    color:pink;
+}

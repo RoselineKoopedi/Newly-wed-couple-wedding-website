@@ -1,0 +1,82 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 01 Sep 2018, 9:04:40 PM
+    Author     : ROSELINE
+*/
+body
+{
+ background:url("Screenshot (30).png");
+}
+.all
+{
+    width: 800px;
+    background:url("walking_alone-wallpaper-1280x1024.jpg");
+    margin: 0 auto 0 auto;
+    min-height:900px;
+}
+.first
+{
+    height:100px;
+    padding:20px;
+    text-align:center;
+    color: white;
+}
+.second
+{
+  
+   min-height:400px;
+    width:200px;
+    float:left;
+    
+}
+.third
+{
+   width:500px;
+   float:right;
+   min-height:700px;
+   color:white;
+   
+}
+h4
+{
+   
+    color:purple;
+}
+.fifth
+{
+    height:70px;
+}
+.lolo
+{
+    height:70px;
+    
+}
+
+sixth
+{
+    height:200px;
+   
+}
+.gret
+{
+    height:10px;
+}
+h2
+{
+     font-family:fantasy;
+}
+.picture
+{
+height: 400px;
+background:url("Screenshot (31).png");
+margin:0% 0% 10% 10%;
+}
+ul li :hover
+{
+    list-style:none;
+    color:green;
+}

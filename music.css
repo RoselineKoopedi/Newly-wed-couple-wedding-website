@@ -1,0 +1,48 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 04 Sep 2018, 2:50:59 PM
+    Author     : ROSELINE
+*/
+body
+{
+    
+    background:url("small_garden_pond_with_bridge_spring_flowers-wallpaper-3554x1999.jpg")
+}
+
+
+ul li 
+{
+ display:inline-block;
+ list-style:none;
+ padding:0 20px;
+}
+ ul li a h4:hover
+{
+ color:yellow;
+}
+.all
+{
+width:650px;
+height:1000px;
+margin:0 auto 0 auto;
+background:url("walking_alone-wallpaper-1280x1024.jpg");
+}
+
+h3:hover
+{
+    color:lime;
+}
+h4
+{
+    color:pink;
+    font-family:fantasy;
+}
+h3 
+{
+    color:steelblue;
+    font-family:fantasy;
+}

@@ -1,0 +1,103 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 01 Sep 2018, 8:18:28 PM
+    Author     : ROSELINE
+*/
+
+body
+{
+    background:url("Screenshot (30).png");
+}
+.all
+{
+    width: 800px;
+    background:url("aurora_mac-wallpaper-2560x1440.jpg");
+    margin: 0 auto 0 auto;
+    min-height:900px;
+}
+.first
+{
+    height:100px;
+   
+    text-align:center;
+    color: white;
+}
+.second
+{
+     padding:10px;
+   margin:0 auto;
+   min-height:400px;
+    width:200px;
+    float:left;
+    
+}
+.third
+{
+   width:500px;
+   float:right;
+   min-height:70px;
+   color:white;
+   
+}
+.fourth
+{
+   width:500px;
+   float:right;
+   min-height:500px;
+   color:orange;
+   font:strong;
+   padding: 0% auto 0% auto;
+}
+h4
+{
+   
+    color:purple;
+}
+.fifth
+{
+    height:200px;
+    background:url(fam.png);
+        border-radius:100%;
+}
+.half1
+{
+    height:200px;
+   
+}
+h2
+{
+    color:pink;
+     font-family:fantasy;
+}
+h3
+{
+   color: midnightblue; 
+}
+h1
+{
+    font-style:italic;
+}
+.lolo
+{
+     width:500px;
+   min-height:200px;
+   color:red;
+}
+.fifth
+{
+    width:500px;
+   min-height:200px; 
+}
+p
+{
+     font-family:fantasy;
+}
+ul li :hover
+{
+    list-style:none;
+    color:yellow;
+}

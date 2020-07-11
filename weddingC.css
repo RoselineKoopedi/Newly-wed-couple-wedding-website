@@ -1,0 +1,70 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 02 Sep 2018, 8:23:49 PM
+    Author     : ROSELINE
+*/
+body
+{
+    background:url("Screenshot (30).png");
+}
+.all
+{
+    width: 800px;
+    background:black;
+    margin: 0 auto 0 auto;
+    min-height:900px;
+    text-align: center;
+}
+.first
+{
+    height:100px;
+    padding:20px;
+    text-align:center;
+    color: white;
+}
+h2
+{
+    color:pink;
+    font-family :fantasy;
+    
+}
+ul li a:hover
+{
+  color:yellow;
+}
+ul li
+{
+    list-style:none;
+      display:inline-block;
+      padding:0 20px;
+      background-color: red;
+}
+p
+{
+    font-family:fantasy;
+    color:black;
+}
+.lolo
+{
+    
+    background-color:steelblue;
+    height:200px;
+    
+}
+.second
+{
+    background-color: pink;
+    height:300px;
+    color:black;
+}
+
+ul li :hover
+{
+    list-style:none;
+    color:white;
+}
+
